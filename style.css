@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(51, 51, 51);
+  color: white;
+}
+
+canvas {
+  margin-bottom: 50px;
+}
+
+a {
+  background-color: rgb(10, 10, 10);
+  font-size: 16pt;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  padding: 10px 15px;
+  transition: .5s ease;
+}
+a:hover {
+  background-color: rgb(30, 30, 30);
+  box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, .75);
+}
+
+
+select {
+  width: 75px;
+  text-decoration: none;
+  background-color: black;
+  color: white;
+}
+
+input {
+  background-color: black;
+  color: white;
+}
